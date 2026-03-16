@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd:*)",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright"
+    ]
+  }
+}
